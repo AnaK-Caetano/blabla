@@ -84,7 +84,7 @@ function excluirPropriedade() {
     return false;
 }
 
-function alterarPropriedade() {8
+function alterarPropriedade() {
 
     if (lista_de_propriedades.length === 0) {
         console.log("Lista vazia, escolha outra opçao do menu");
