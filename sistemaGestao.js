@@ -337,5 +337,4 @@ function consultarPropriedade(cpfDaBusca) {
     return false;
 }
 
-
 menuPrincipal();
